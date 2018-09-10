@@ -1,2 +1,0 @@
-# cep-terceirizacao
-CEP Terceirização
